@@ -1,2 +1,2 @@
-# kaspi.kz-shop
-bank app
+# bank app
+
